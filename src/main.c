@@ -7,8 +7,8 @@ char *stri(char *buffer, char *one, char *two)
     int i;
     int y;
     y = 0;
-    write(1, one, stu_strlen(one));
-    write(1, two, stu_strlen(two));
+    //write(1, one, stu_strlen(one));
+    //write(1, two, stu_strlen(two));
     while (one[y] != '\0')
         {
             i = 0;
