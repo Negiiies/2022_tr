@@ -11,6 +11,7 @@
 
 char *stry(char *buffer, char *search);
 char *stri(char *buffer, char *one, char *two);
+char *strp(char *buffer, char *find);
 unsigned int stu_strlen(const char *str);
 int stu_strchr(const char *str, char search);
 int stu_strcmp(const char *s1, const char *s2);
